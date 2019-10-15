@@ -1,5 +1,5 @@
-// MULTIPLYING PI AND NEPER NUMBER TOGETHER, WITH 32 BIT SIGNED MAGNITUDE REPRESENTATION AND 17 BIT OF FRACTIONS
-// CREATED BY MEHDI SAFAEE, WINTER 2018-2019
+// Synthesizable Fixed-Point Testing Module for Multiplier with FixedPoint Size of N bits and Fraction Size of F bits
+// Developed by Mehdi0xC, Winter 2018-2019
 `include "config.svh"
 module multiplier_test;
 //##############################################################################################
