@@ -1,3 +1,4 @@
+% Matlab Script for Testing Fixed-Point Arithmetic
 % Developed by Mehdi0xC, Fall 2019 
 FRACTION_SIZE = 17;
 FIXED_POINT_SIZE = 32;
