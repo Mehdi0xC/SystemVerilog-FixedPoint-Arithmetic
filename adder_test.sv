@@ -1,4 +1,4 @@
-// Synthesizable Fixed-Point Testing Module for Adder with FixedPoint Size of N bits and Fraction Size of F bits
+// Fixed-Point Testing Module for Adder with FixedPoint Size of N bits and Fraction Size of F bits
 // Developed by Mehdi0xC, Winter 2018-2019
 `include "config.svh"
 module adder_test;
